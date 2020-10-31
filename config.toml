@@ -1,6 +1,6 @@
-baseURL = "www.example.com"
+baseURL = "https://descritiva2.netlify.app/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Descritiva Inovação e Estatística"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -14,41 +14,41 @@ title = "Hugo Serif Theme"
     mobile = "images/logo/logo-mobile.svg"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Descritiva Inovação e Estatística"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_og_title = "Descritiva Inovação e Estatística"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.app"
+    meta_og_url = "https://descritiva2.netlify.app/"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
     meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@descritiva"
+    meta_twitter_creator = "@descritiva"
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'Copyright (c) 2020 Descritiva Inovação e Estatística. Todos os direitos reservados.'
 
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Serviços"
     url = "/services/"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
+      name = "Equipe"
       url = "/team/"
       weight = 2
 
   # Footer Menu
   [[menu.footer]]
-    name = "Home"
+    name = "Início"
     url = "/"
       weight = 1
 
   [[menu.footer]]
-    name = "Contact"
+    name = "Contato"
     url = "/contact/"
       weight = 2
