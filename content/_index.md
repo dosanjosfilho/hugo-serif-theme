@@ -1,6 +1,6 @@
 ---
 title: Home
-intro_image: uploads/site-stats-amico.png
+intro_image: uploads/business-plan-pana.png
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
